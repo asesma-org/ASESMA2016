@@ -1,6 +1,6 @@
 {
-  "name": "Asesma2016.GitHub.io",
+  "name": "Tutorial files for ASESMA 2016",
   "tagline": "",
-  "body": "# Tutorial files for ASESMA 2016\r\n\r\nThis site hosts the files that are used for the tutorials.\r\n\r\n## Monday\r\n- The shell tutorial can be found here: http://swcarpentry.github.io/shell-novice/\r\n\r\n## Tuesday\r\n- Exercise 1 [Exercise_1.zip](Exercise_1.zip)",
+  "body": "## Tutorial files for ASESMA 2016\r\n\r\nThis site hosts the files that are used for the tutorials.\r\n\r\n### Monday\r\n- The shell tutorial can be found here: http://swcarpentry.github.io/shell-novice/\r\n\r\n### Tuesday\r\n- Exercise 1 [Exercise_1.zip](Exercise_1.zip)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
