@@ -1,6 +1,6 @@
 {
   "name": "Tutorial files for ASESMA 2016",
   "tagline": "",
-  "body": "This site hosts the files that are used for the tutorials.\r\n\r\n### Monday, June 13\r\n- The shell tutorial can be found here: http://swcarpentry.github.io/shell-novice/\r\n\r\n### Tuesday, June 14\r\n- Quantum Espresso, SCF: [Day2.tar](Day2.tar)",
+  "body": "This site hosts the files that are used for the tutorials.\r\n\r\n### Monday, June 13\r\n- The shell tutorial can be found here: http://swcarpentry.github.io/shell-novice/\r\n\r\n### Tuesday, June 14\r\n- Quantum Espresso, SCF: [Day2.tar](Day2.tar)\r\n\r\n### Wednesday\r\n- Quantum Espresso: [wednesday_tut.tar.gz](wednesday_tut.tar.gz)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
